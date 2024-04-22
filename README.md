@@ -1,3 +1,15 @@
+# Hoisting Link :: https://lgmvip-web-task-4-ak.netlify.app
+
+# Simple Calculator Web Application
+This is a basic calculator web application built using React JS. The app provides a simple interface for performing basic arithmetic operations, including addition, subtraction, multiplication, and division. Users can input numbers and perform calculations with ease.
+
+# Features
+<ul>
+  <li><b>Basic Arithmetic Operations:</b> Addition, subtraction, multiplication, and division.</li>
+<li><b>Clear and Responsive Interface:</b> Simple and user-friendly design for easy navigation.</li>
+<li><b>Decimal Support:</b> Users can input decimal numbers for more precise calculations.</li>
+</ul>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
